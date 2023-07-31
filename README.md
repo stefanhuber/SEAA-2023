@@ -12,4 +12,7 @@
 
 ## Figures
 
+<iframe src="./data/category_count.pdf" width="100%" height="500" frameborder="0" />
+
+
 ![Figure category count](./data/category_count.pdf)
