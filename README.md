@@ -12,5 +12,5 @@
 
 ## Figures
 
-![Figure category count](./data/category_count.pdf)
-![Figure publication count](./data/publication_count.pdf)
+ - [Figure category count](./data/category_count.pdf)
+ - [Figure publication count](./data/publication_count.pdf)
