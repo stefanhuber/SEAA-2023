@@ -10,4 +10,6 @@
  - notebooks
     - `Preparation.ipynb`: Notebook to generate figures
 
+## Figures
 
+![Figure category count](./data/category_count.pdf)
